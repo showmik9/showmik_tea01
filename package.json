@@ -1,0 +1,10 @@
+{
+  "name": "showmik_tea01",
+  "version": "1.0.0",
+  "description": "My shell project registered on tea Protocol",
+  "main": "your-script.sh",
+  "scripts": {
+    "start": "bash your-script.sh"
+  },
+  "license": "MIT"
+}
